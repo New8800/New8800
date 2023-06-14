@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @New8800
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+@New8800
+
+
+
+
 
 <!---
  `README.md`on
 
-_0_    OO
+88_0_ / OO
     ChangeTheWorld
    #IA json {  
 
@@ -25,6 +25,6 @@ REPO**{
     NEVER RAN, 3.3.3
 01/$12_00_88/©™M
   Jess*      
-     JC  FRNKsmith*
+     JC  FRNK*smith*
 
 
